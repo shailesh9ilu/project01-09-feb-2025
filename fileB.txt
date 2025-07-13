@@ -1,2 +1,3 @@
 this is file B
 this is a change in file B. version02
+this is a change in file B. version03
